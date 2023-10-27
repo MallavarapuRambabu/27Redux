@@ -36,7 +36,7 @@ function App({ details, addDetails }) {
           onChange={handleInputChange}
         />
       </label>
-
+<h1>MallavarapuRambabu</h1>
       <label>
         Phone:
         <input
